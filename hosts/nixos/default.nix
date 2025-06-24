@@ -176,6 +176,7 @@ in {
     fontDir.enable = true;
     packages = with pkgs; [
       nerd-fonts.meslo-lg
+      meslo-lgs-nf
     ];
   };
 
